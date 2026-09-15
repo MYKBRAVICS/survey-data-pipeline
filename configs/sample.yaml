@@ -1,1 +1,84 @@
+# One file per survey. Nothing else in the pipeline changes between surveys.
 
+survey:
+  name: "Coffee baseline 2026 — Ibanda, Kiruhura, Rubirizi"
+  id_column: household_id
+  enumerator_column: enum_name
+  start_time_column: start_time
+  end_time_column: end_time
+  date_column: submission_date
+
+# How to read each column. Anything not listed is left as text.
+types:
+  categorical: [district, subcounty, gender_hh_head, fertilizer_type]
+  boolean: [uses_fertilizer, training_attended]
+  numeric: [hh_size, age_hh_head, plot_area_acres, trees_per_acre,
+            yield_kg, price_per_kg, gps_lat, gps_lon,
+            satisfaction_1, satisfaction_2, satisfaction_3,
+            satisfaction_4, satisfaction_5]
+  multiselect: [coffee_varieties, training_topics]
+
+# A blank here is a data collection failure, not a valid answer.
+required: [household_id, enum_name, district, plot_area_acres]
+
+# Values outside these bounds are impossible rather than unusual.
+# Impossible values are blanked; the original is kept in the cleaning log.
+ranges:
+  hh_size: [1, 30]
+  age_hh_head: [15, 100]
+  plot_area_acres: [0.1, 50]
+  trees_per_acre: [100, 1500]
+  price_per_kg: [1000, 15000]
+
+# Cross-field rules. Each states what SHOULD be true.
+consistency:
+  - rule: "yield_kg <= plot_area_acres * 2000"
+    message: "Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+    severity: critical
+  - rule: "yield_kg >= plot_area_acres * 50"
+    message: "Reported yield is under 50 kg per acre — check the area units"
+    severity: warning
+
+# Questions the form should never have shown when the gate is no.
+skip_logic:
+  - when: uses_fertilizer
+    then_empty: fertilizer_type
+  - when: training_attended
+    then_empty: training_topics
+
+fieldwork_window:
+  start: "2026-05-01"
+  end: "2026-06-15"
+
+enumerator:
+  min_duration_minutes: 12
+  max_duration_minutes: 180
+  scale_block: [satisfaction_1, satisfaction_2, satisfaction_3,
+                satisfaction_4, satisfaction_5]
+  digit_preference_columns: [yield_kg]
+  digit_preference_base: 50
+  digit_preference_threshold: 0.6
+  missingness_multiple: 1.8
+
+geo:
+  lat_column: gps_lat
+  lon_column: gps_lon
+  bounding_box: { lat_min: -1.2, lat_max: 0.6, lon_min: 29.5, lon_max: 31.5 }
+
+indicators:
+  - name: "Yield per acre"
+    expression: "yield_kg / plot_area_acres"
+    disaggregate_by: [district, gender_hh_head]
+    min_n: 5
+  - name: "Trees per acre"
+    expression: "trees_per_acre"
+    disaggregate_by: [district]
+    min_n: 5
+  - name: "Gross value per acre UGX"
+    expression: "(yield_kg * price_per_kg) / plot_area_acres"
+    disaggregate_by: [district, gender_hh_head]
+    min_n: 5
+  - name: "Household size"
+    expression: "hh_size"
+    disaggregate_by: [district]
+    min_n: 5
