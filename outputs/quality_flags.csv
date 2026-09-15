@@ -1,0 +1,186 @@
+submission_id,household_id,enum_name,check,category,severity,column,value,message
+uuid:00110,HH-RUB-0110,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,3.0,interview lasted under the 12-minute floor
+uuid:00392,HH-RUB-0392,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00002,HH-RUB-0002,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00044,HH-RUB-0044,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00404,HH-RUB-0404,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00200,HH-RUB-0200,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00326,HH-RUB-0326,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00416,HH-RUB-0416,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00152,HH-RUB-0152,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00134,HH-RUB-0134,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00398,HH-RUB-0398,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00218,HH-RUB-0218,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00092,HH-RUB-0092,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:90005,HH-RUB-0278,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00140,HH-RUB-0140,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,11.0,interview lasted under the 12-minute floor
+uuid:00158,HH-RUB-0158,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00254,HH-RUB-0254,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00062,HH-RUB-0062,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00080,HH-RUB-0080,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00068,HH-RUB-0068,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00380,HH-RUB-0380,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00248,HH-RUB-0248,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00320,HH-RUB-0320,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00374,HH-RUB-0374,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00032,HH-RUB-0032,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00284,HH-RUB-0284,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00302,HH-RUB-0302,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00224,HH-RUB-0224,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00356,HH-RUB-0356,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00266,HH-RUB-0266,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00128,HH-RUB-0128,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00350,HH-RUB-0350,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00116,HH-RUB-0116,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00242,HH-RUB-0242,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00386,HH-RUB-0386,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00362,HH-RUB-0362,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00086,HH-RUB-0086,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00098,HH-RUB-0098,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00212,HH-RUB-0212,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00194,HH-RUB-0194,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00038,HH-RUB-0038,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00170,HH-RUB-0170,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00020,HH-RUB-0020,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,9.0,interview lasted under the 12-minute floor
+uuid:00206,HH-RUB-0206,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00272,HH-RUB-0272,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00188,HH-RUB-0188,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,3.0,interview lasted under the 12-minute floor
+uuid:00182,HH-RUB-0182,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,10.0,interview lasted under the 12-minute floor
+uuid:00008,HH-RUB-0008,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,3.0,interview lasted under the 12-minute floor
+uuid:00122,HH-RUB-0122,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00014,HH-RUB-0014,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00104,HH-RUB-0104,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,10.0,interview lasted under the 12-minute floor
+uuid:00056,HH-RUB-0056,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00260,HH-RUB-0260,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00050,HH-RUB-0050,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00164,HH-RUB-0164,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00026,HH-RUB-0026,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00278,HH-RUB-0278,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00368,HH-RUB-0368,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00344,HH-RUB-0344,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00290,HH-RUB-0290,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00314,HH-RUB-0314,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,8.0,interview lasted under the 12-minute floor
+uuid:00332,HH-RUB-0332,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,5.0,interview lasted under the 12-minute floor
+uuid:00296,HH-RUB-0296,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00146,HH-RUB-0146,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00308,HH-RUB-0308,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00410,HH-RUB-0410,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,6.0,interview lasted under the 12-minute floor
+uuid:00236,HH-RUB-0236,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00230,HH-RUB-0230,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00074,HH-RUB-0074,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,4.0,interview lasted under the 12-minute floor
+uuid:00176,HH-RUB-0176,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,7.0,interview lasted under the 12-minute floor
+uuid:00338,HH-RUB-0338,C. Kyomuhendo,short_interview,enumerator,critical,_duration_min,3.0,interview lasted under the 12-minute floor
+uuid:00000,HH-IBA-0000,A. Tumusiime,future_date,logical,critical,submission_date,2027-03-14,submission dated in the future
+uuid:00326,HH-RUB-0326,C. Kyomuhendo,future_date,logical,critical,submission_date,2027-03-14,submission dated in the future
+uuid:00120,HH-IBA-0120,A. Tumusiime,future_date,logical,critical,submission_date,2027-03-14,submission dated in the future
+uuid:00068,HH-RUB-0068,C. Kyomuhendo,inconsistent,logical,critical,*,,"Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+uuid:00284,HH-RUB-0284,C. Kyomuhendo,inconsistent,logical,critical,*,,"Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+uuid:00186,HH-IBA-0186,A. Tumusiime,inconsistent,logical,critical,*,,"Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+uuid:00368,HH-RUB-0368,C. Kyomuhendo,inconsistent,logical,critical,*,,"Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+uuid:00146,HH-RUB-0146,C. Kyomuhendo,inconsistent,logical,critical,*,,"Reported yield exceeds 2,000 kg per acre — implausible for Robusta"
+uuid:00078,HH-IBA-0078,A. Tumusiime,out_of_range,logical,critical,hh_size,0,outside the plausible range 1 to 30
+uuid:00172,HH-KIR-0172,E. Ainembabazi,out_of_range,logical,critical,hh_size,45,outside the plausible range 1 to 30
+uuid:00122,HH-RUB-0122,C. Kyomuhendo,out_of_range,logical,critical,hh_size,61,outside the plausible range 1 to 30
+uuid:00194,HH-RUB-0194,C. Kyomuhendo,out_of_range,logical,critical,plot_area_acres,71.5,outside the plausible range 0.1 to 50
+uuid:00225,HH-IBA-0225,D. Mugisha,out_of_range,logical,critical,plot_area_acres,94.0,outside the plausible range 0.1 to 50
+uuid:00146,HH-RUB-0146,C. Kyomuhendo,out_of_range,logical,critical,plot_area_acres,0.02,outside the plausible range 0.1 to 50
+uuid:00269,HH-RUB-0269,F. Byaruhanga,out_of_range,logical,critical,trees_per_acre,4200.0,outside the plausible range 100 to 1500
+uuid:00354,HH-IBA-0354,A. Tumusiime,out_of_range,logical,critical,trees_per_acre,12.0,outside the plausible range 100 to 1500
+uuid:00007,HH-KIR-0007,B. Nakato,skip_logic_violation,logical,critical,fertilizer_type,npk,answered although uses_fertilizer is no — the form should not have shown this question
+uuid:00293,HH-RUB-0293,F. Byaruhanga,skip_logic_violation,logical,critical,fertilizer_type,npk,answered although uses_fertilizer is no — the form should not have shown this question
+uuid:00359,HH-RUB-0359,F. Byaruhanga,skip_logic_violation,logical,critical,fertilizer_type,npk,answered although uses_fertilizer is no — the form should not have shown this question
+uuid:00036,HH-IBA-0036,A. Tumusiime,skip_logic_violation,logical,critical,fertilizer_type,npk,answered although uses_fertilizer is no — the form should not have shown this question
+uuid:00094,HH-KIR-0094,E. Ainembabazi,skip_logic_violation,logical,critical,fertilizer_type,npk,answered although uses_fertilizer is no — the form should not have shown this question
+uuid:00340,HH-KIR-0340,E. Ainembabazi,skip_logic_violation,logical,critical,training_topics,pruning shade_mgmt,answered although training_attended is no — the form should not have shown this question
+uuid:00294,HH-IBA-0294,A. Tumusiime,skip_logic_violation,logical,critical,training_topics,pruning shade_mgmt,answered although training_attended is no — the form should not have shown this question
+uuid:00312,HH-IBA-0312,A. Tumusiime,skip_logic_violation,logical,critical,training_topics,pruning shade_mgmt,answered although training_attended is no — the form should not have shown this question
+uuid:00309,HH-IBA-0309,D. Mugisha,skip_logic_violation,logical,critical,training_topics,pruning shade_mgmt,answered although training_attended is no — the form should not have shown this question
+uuid:00018,HH-IBA-0018,A. Tumusiime,gps_outside_area,spatial,critical,gps_lat/gps_lon,"0.88, 34.02",point falls outside the survey bounding box
+uuid:00106,HH-KIR-0106,E. Ainembabazi,gps_outside_area,spatial,critical,gps_lat/gps_lon,"2.31, 31.4",point falls outside the survey bounding box
+uuid:00232,HH-KIR-0232,E. Ainembabazi,gps_outside_area,spatial,critical,gps_lat/gps_lon,"-1.62, 29.1",point falls outside the survey bounding box
+uuid:00255,HH-IBA-0255,D. Mugisha,gps_outside_area,spatial,critical,gps_lat/gps_lon,"1.94, 33.61",point falls outside the survey bounding box
+uuid:00030,HH-IBA-0030,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0030,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:00271,HH-KIR-0271,B. Nakato,duplicate_id,structural,critical,household_id,HH-KIR-0271,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90000,HH-KIR-0271,B. Nakato,duplicate_id,structural,critical,household_id,HH-KIR-0271,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90005,HH-RUB-0278,C. Kyomuhendo,duplicate_id,structural,critical,household_id,HH-RUB-0278,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:00384,HH-IBA-0384,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0384,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:00307,HH-KIR-0307,B. Nakato,duplicate_id,structural,critical,household_id,HH-KIR-0307,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90001,HH-IBA-0132,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0132,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90004,HH-IBA-0384,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0384,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:00132,HH-IBA-0132,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0132,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90002,HH-KIR-0307,B. Nakato,duplicate_id,structural,critical,household_id,HH-KIR-0307,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:00278,HH-RUB-0278,C. Kyomuhendo,duplicate_id,structural,critical,household_id,HH-RUB-0278,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90003,HH-IBA-0030,A. Tumusiime,duplicate_id,structural,critical,household_id,HH-IBA-0030,another submission carries this identifier — likely a form re-sent after a sync failure
+uuid:90000,HH-KIR-0271,B. Nakato,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:90004,HH-IBA-0384,A. Tumusiime,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:00132,HH-IBA-0132,A. Tumusiime,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:90002,HH-KIR-0307,B. Nakato,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:00278,HH-RUB-0278,C. Kyomuhendo,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:90003,HH-IBA-0030,A. Tumusiime,exact_duplicate_row,structural,critical,*,,every substantive field matches an earlier submission
+uuid:00214,HH-KIR-0214,E. Ainembabazi,digit_preference,enumerator,warning,yield_kg,1.0,E. Ainembabazi: 100% of values are multiples of 50 across 70 records
+uuid:00407,HH-RUB-0407,F. Byaruhanga,high_missingness,enumerator,warning,*,0.081,"F. Byaruhanga: 8.1% of fields empty across 70 records, against 3.9% for everyone else (z = 7.9)"
+uuid:00027,HH-IBA-0027,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00273,HH-IBA-0273,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00069,HH-IBA-0069,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00219,HH-IBA-0219,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00231,HH-IBA-0231,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00405,HH-IBA-0405,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00357,HH-IBA-0357,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00183,HH-IBA-0183,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00033,HH-IBA-0033,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00267,HH-IBA-0267,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00381,HH-IBA-0381,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00237,HH-IBA-0237,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00363,HH-IBA-0363,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00249,HH-IBA-0249,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00159,HH-IBA-0159,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00099,HH-IBA-0099,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00339,HH-IBA-0339,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00009,HH-IBA-0009,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00279,HH-IBA-0279,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00165,HH-IBA-0165,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00417,HH-IBA-0417,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00177,HH-IBA-0177,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00063,HH-IBA-0063,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00129,HH-IBA-0129,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00321,HH-IBA-0321,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00045,HH-IBA-0045,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00039,HH-IBA-0039,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00093,HH-IBA-0093,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00201,HH-IBA-0201,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00393,HH-IBA-0393,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00351,HH-IBA-0351,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00117,HH-IBA-0117,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00171,HH-IBA-0171,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00345,HH-IBA-0345,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00387,HH-IBA-0387,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00021,HH-IBA-0021,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00285,HH-IBA-0285,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00003,HH-IBA-0003,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00189,HH-IBA-0189,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00375,HH-IBA-0375,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00057,HH-IBA-0057,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00195,HH-IBA-0195,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00369,HH-IBA-0369,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00309,HH-IBA-0309,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00141,HH-IBA-0141,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00315,HH-IBA-0315,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00297,HH-IBA-0297,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00147,HH-IBA-0147,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",3,the entire scale block carries one value
+uuid:00243,HH-IBA-0243,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00327,HH-IBA-0327,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",4,the entire scale block carries one value
+uuid:00075,HH-IBA-0075,D. Mugisha,straight_lining,enumerator,warning,"satisfaction_1, satisfaction_2, satisfaction_3, satisfaction_4, satisfaction_5",5,the entire scale block carries one value
+uuid:00194,HH-RUB-0194,C. Kyomuhendo,inconsistent,logical,warning,*,,Reported yield is under 50 kg per acre — check the area units
+uuid:00225,HH-IBA-0225,D. Mugisha,inconsistent,logical,warning,*,,Reported yield is under 50 kg per acre — check the area units
+uuid:00030,HH-IBA-0030,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.05917,30.45146",identical coordinates recorded for more than one household
+uuid:00271,HH-KIR-0271,B. Nakato,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.34205,30.84157",identical coordinates recorded for more than one household
+uuid:90000,HH-KIR-0271,B. Nakato,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.34205,30.84157",identical coordinates recorded for more than one household
+uuid:90005,HH-RUB-0278,C. Kyomuhendo,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.2664,30.16241",identical coordinates recorded for more than one household
+uuid:00384,HH-IBA-0384,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"0.0111,30.50435",identical coordinates recorded for more than one household
+uuid:00307,HH-KIR-0307,B. Nakato,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.29404,30.93157",identical coordinates recorded for more than one household
+uuid:90001,HH-IBA-0132,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.02505,30.624",identical coordinates recorded for more than one household
+uuid:90004,HH-IBA-0384,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"0.0111,30.50435",identical coordinates recorded for more than one household
+uuid:00132,HH-IBA-0132,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.02505,30.624",identical coordinates recorded for more than one household
+uuid:90002,HH-KIR-0307,B. Nakato,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.29404,30.93157",identical coordinates recorded for more than one household
+uuid:00278,HH-RUB-0278,C. Kyomuhendo,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.2664,30.16241",identical coordinates recorded for more than one household
+uuid:90003,HH-IBA-0030,A. Tumusiime,gps_repeated_point,spatial,warning,gps_lat/gps_lon,"-0.05917,30.45146",identical coordinates recorded for more than one household
